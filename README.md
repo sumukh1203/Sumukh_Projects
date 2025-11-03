@@ -1,2 +1,8 @@
-# Sumukh_Projects
-A portfolio of my software development projects
+# 👋 Hi, I'm Sumukh H
+
+Welcome to my **Project Showcase**!  
+Here are some of my featured projects — click each to explore details:
+
+- [UniHub – Community Connect App](./UniHub/README.md)
+- [Clinic Queue Tracker](./ClinicQueue/README.md)
+
