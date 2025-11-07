@@ -109,7 +109,7 @@ main.dart
 
 Add your images under docs/screenshots and link them:
 
-- Dashboard |(./Unihub/assets.md/Dashboard1)||(./Unihub/assests.md/Dashboard2)| - 
+- Dashboard |![Alt](./assets/Dashboard1.png)| |![Alt](./assets/Dashboard2.png)| - 
 - Events Home – 
 - Event Details – 
 - Notes – 
