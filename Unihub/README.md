@@ -1,6 +1,10 @@
-# UniHub – A Modern Campus Companion (Flutter + Firebase + Spring Boot)
+# UniHub – A Modern Campus Companion
 
-UniHub is a android mobile app that centralizes campus life: discover events and clubs, manage notes, receive notifications, and register for activities—all with a fast, polished Material 3 UI and offline support.
+UniHub is a android mobile app that centralizes campus life: discover events and clubs, manage notes, receive notifications, and register for activities—all with a fast, polished Material 3 UI and o[...]
+
+---
+
+## Tech Stack 
 
 - Platforms: Android
 - Frontend: Flutter (Material 3, Impeller, Dynamic Color)
@@ -28,6 +32,20 @@ UniHub is a android mobile app that centralizes campus life: discover events and
   - Firestore offline persistence
   - Centralized error handling with AppException/Result, retry with backoff, connectivity‑aware UI
   - RepaintBoundary and constraint‑aware layouts to avoid jank/overflows
+
+---
+
+## Screenshots (placeholders)
+
+Add your images under docs/screenshots and link them:
+
+- Dashboard | <img src="https://github.com/user-attachments/assets/98812901-3b92-41c8-81fd-584f0abeb920" alt="Dashboard1" width="200" /> | <img src="https://github.com/user-attachments/assets/f77eee52-31c4-4885-b6e5-fcd2fc8a[...]" alt="Dashboard2" width="200" />
+- Events Home – <img src="https://github.com/user-attachments/assets/428abdea-bce1-41c8-aa45-6e08fdba7cec" alt="Events" width="200" />
+- Event Details – <img src="https://github.com/user-attachments/assets/fa07f9ef-bed3-4deb-ae2f-fc51b73ac2c4" alt="Event details" width="200" />
+- Notes – <img src="https://github.com/user-attachments/assets/8594f6f8-cabe-4277-bc89-c1f2af4f5e55" alt="Notes" width="200" />
+- Clubs – <img src="https://github.com/user-attachments/assets/3b910f97-c16d-439d-ab76-85d25b07c6be" alt="Clubs" width="200" />
+- Profile – <img src="https://github.com/user-attachments/assets/68b9ec3e-e0b6-48d2-b9bf-c05f0eb5b200" alt="Profile" width="200" />
+- Faculty Contact – <img src="https://github.com/user-attachments/assets/e037511c-70d3-4662-923c-dfb6f31e881c" alt="FacultyContact" width="200" />
 
 ---
 
@@ -102,20 +120,6 @@ main.dart
   - Debounced search, no heavy work in build
 - Calendar fallback chain
   - Native add intent → Google Calendar web template → ICS share
-
----
-
-## Screenshots (placeholders)
-
-Add your images under docs/screenshots and link them:
-
-- Dashboard | ![Dashboard1](https://github.com/user-attachments/assets/98812901-3b92-41c8-81fd-584f0abeb920) | ![Dashboard2](https://github.com/user-attachments/assets/f77eee52-31c4-4885-b6e5-fcd2fc8a65c0)
-- Events Home – ![Events](https://github.com/user-attachments/assets/428abdea-bce1-41c8-aa45-6e08fdba7cec)
-- Event Details – ![Event details](https://github.com/user-attachments/assets/fa07f9ef-bed3-4deb-ae2f-fc51b73ac2c4)
-- Notes – ![Notes](https://github.com/user-attachments/assets/8594f6f8-cabe-4277-bc89-c1f2af4f5e55)
-- Clubs – ![Clubs](https://github.com/user-attachments/assets/3b910f97-c16d-439d-ab76-85d25b07c6be)
-- Profile – ![Profile](https://github.com/user-attachments/assets/68b9ec3e-e0b6-48d2-b9bf-c05f0eb5b200)
-- Faculty Contact – ![FacultyContact](https://github.com/user-attachments/assets/e037511c-70d3-4662-923c-dfb6f31e881c)
 
 ---
 
