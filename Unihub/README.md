@@ -41,39 +41,62 @@ UniHub is an Android mobile application designed to streamline and enhance the c
 
 |<img width="200" alt="ForgotPassword" src="https://github.com/user-attachments/assets/3f552d99-e29c-4d6d-a880-0d7c616e6d63" />| |<img width="200" alt="Register" src="https://github.com/user-attachments/assets/90c3f266-f37b-429f-a72f-c5517bf4f2ea" />| |<img width="200" alt="Login" src="https://github.com/user-attachments/assets/3e50c142-0235-47de-ada3-2a00b02802cd" />|
 
+---
+
 **Dashboard** 
 
 |<img src="https://github.com/user-attachments/assets/98812901-3b92-41c8-81fd-584f0abeb920" alt="Dashboard1" width="200" />| |<img width="200" alt="Dashboard2" src="https://github.com/user-attachments/assets/f77eee52-31c4-4885-b6e5-fcd2fc8a65c0" />|
+
+---
 
 **Events**
 
 |<img width="200" alt="Events" src="https://github.com/user-attachments/assets/428abdea-bce1-41c8-aa45-6e08fdba7cec" />| |<img width="200" alt="Event_details" src="https://github.com/user-attachments/assets/fa07f9ef-bed3-4deb-ae2f-fc51b73ac2c4" />| |<img width="200" alt="Event_create" src="https://github.com/user-attachments/assets/a4fc4622-8659-4aaf-8c12-e498a21fae78" />|
 
+---
+
 **Notes**
 
 |<img width="200" alt="Notes_upload" src="https://github.com/user-attachments/assets/8b793dfc-aed8-4f2c-8435-87a5752f55f9" />| |<img width="200" alt="Notes_browse2" src="https://github.com/user-attachments/assets/8594f6f8-cabe-4277-bc89-c1f2af4f5e55" />| |<img width="200" alt="Notes_browse1" src="https://github.com/user-attachments/assets/e9ef21ba-8eda-4954-986d-eafd0c2f67ce" />|
+
+---
 
 **Clubs** 
 
 |<img width="200" alt="Clubs" src="https://github.com/user-attachments/assets/3b910f97-c16d-439d-ab76-85d25b07c6be" />| |<img width="200" alt="Club_details" src="https://github.com/user-attachments/assets/c5054c4f-6e79-4496-b8c6-914de569bb61" />| |<img width="200" alt="Club_gallery" src="https://github.com/user-attachments/assets/693de090-2d9f-4174-8cdc-b6ce410f44bd" />| |<img width="200" alt="Club_feed" src="https://github.com/user-attachments/assets/0bfd55b2-27cf-4bf7-bd38-4dd54adbe5d1" />|
 
+---
+
 **Profile** 
 
 |<img width="200" alt="Profile" src="https://github.com/user-attachments/assets/68b9ec3e-e0b6-48d2-b9bf-c05f0eb5b200" />|
+
+---
 
 **More**
 
 |<img width="200" alt="More" src="https://github.com/user-attachments/assets/2f4337e8-16ef-42b8-8bd5-17b7a8e4b5e1" />|
 
+---
+
 **Faculty Contact**
+
+---
 
 |<img width="200" alt="FaclutyContact" src="https://github.com/user-attachments/assets/e037511c-70d3-4662-923c-dfb6f31e881c" />|
 
+---
+
 **Notification Settings**
+
+---
 
 |<img width="200" alt="Notification" src="https://github.com/user-attachments/assets/1dcda71a-6541-433b-bf72-e7c92d17012b" />|
 
+---
+
 **SGPA Calculator**
+
 |<img width="200" alt="SGPA_calculator" src="https://github.com/user-attachments/assets/4d74fc70-fe35-49ae-b058-c9ee27bf11a6" />|
 
 ---
