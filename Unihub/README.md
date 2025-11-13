@@ -97,7 +97,15 @@ UniHub is an Android mobile application designed to streamline and enhance the c
 
 **SGPA Calculator**
 
-|<img width="200" alt="SGPA_calculator" src="https://github.com/user-attachments/assets/4d74fc70-fe35-49ae-b058-c9ee27bf11a6" />|
+|<img width="200" alt="SGPA_calculator" src="https://github.com/user-attachments/assets/2cc1bb10-966d-49ab-bbec-f65f51f5c44a" />| |<img width="200"  alt="CGPA_calculator" src="https://github.com/user-attachments/assets/6f43f696-5b70-4218-b45a-bf25b7ab6eea" />|
+
+---
+
+**Lost & Found**
+
+<img width="200"  alt="Lost_found1" src="https://github.com/user-attachments/assets/e306b8d9-1594-4b4d-9313-93d83c4d168d" />
+<img width="200"  alt="Lost_found2" src="https://github.com/user-attachments/assets/35ae0926-1597-4c32-9531-1a76992c423f" />
+<img width="200"  alt="Lost_found3" src="https://github.com/user-attachments/assets/ff9aafed-6ae9-459e-9676-82ea2948c452" />
 
 ---
 
